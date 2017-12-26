@@ -582,7 +582,7 @@ header nav ul li a:hover {
   #main {
     margin: 2em 0 0;
     width: 75%;
-    float: left;
+    float: right;
     -webkit-transition: margin 0.5s ease-out;
     -moz-transition: margin 0.5s ease-out;
     -o-transition: margin 0.5s ease-out;
